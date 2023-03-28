@@ -1,0 +1,15 @@
+{
+    "name": "rules",
+    "content": {   
+        "embeds": [
+            {
+                "fields": [],
+                "description": "**__Chat Rules__**\n**1.** Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism, or hate speech will be tolerated.\n**2.** Swearing is allowed, just don't be toxic with the words you use.\n**3.** Impersonating is forbidden and will get you banned instantly (Such as: mods, owner etc.)\n**4.** Since this is an English-speaking server, you are only permitted to communicate in English.\n**5.** DM advertising is not permitted. Do it only in <#851102546495930377>\n**6.** There will be no spam pinging, ghost pinging, or pinging without a reason.\n**7.** Please keep arguments in Dms rather than on this server.\n**8.** Using an Alt to get around bans is not accepted.\n**9.** Use bot commands in the right channel.\n \n**__Voice channel Rules__**\n**1.** No mic spamming (including ear rape)\n**2.** No NSFW sounds/heavily inappropriate music.\n**3.** Minimize background noise. (Use push to talk if needed)\n**4.** Moderators have the right to deafen, mute, kick, or drag members.\n**5**. Keep the toxicity to the minimum.\n \n**__Meet Staff__**\n<@&851102546482692105> : The man, the myth, the legend <@401844809385508903>. \n<@&851102546482692104> : Ascent being the man behind almost everything.\n<@&851102546482692103> : Admins are the main line for support, they are super trusted and make most announcements\n<@&851102546482692102> : Mods Help out by keeping the chat a bay! Give them lots of love!",
+                "title": "Rules being followed through out the server.",
+                "color": 5947358
+            }
+        ],
+        "components": [],
+        "content": ""
+    }
+}
